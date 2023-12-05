@@ -1,2 +1,2 @@
 # DIP mini application
- Application format of the DIP assignments
+ Application format of the Digital Image Processing assignments
